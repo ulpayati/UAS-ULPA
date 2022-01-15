@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">HEWAN</string>
+    <string name="Capung_Semut_amp_Ular">Capung, Semut dan Ular</string>
+    <string name="biodata">Biodata</string>
+    // Layout
+    <string name="pilih_gambar">(Pilih gambar untuk membuka galeri)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="kembali">Kembali</string>
+    <string name="Capung">Capung</string>
+    <string name="Semut">Semut</string>
+    <string name="Ular">Ular</string>
+    <string name="Capung_list_title">Daftar Ras Capung</string>
+    <string name="Semut_list_title">Daftar Ras Semut</string>
+    <string name="Ular_list_title">Daftar Ras Ular</string>
+    //Data Capung
+    <string name="brachydiplax_chalybe_anama">Brachydiplax_chalybe</string>
+    <string name="brachydiplax_chalybe_asal">India</string>
+    <string name="brachydiplax_chalybe_diskripsi">capung ini berukuran kecil hingga sedang, di mana jantan berwarna abu-abu putih kebiruan dengan perut yang lebar</string>
+    <string name="brachythemis_contaminata_nama">brachythemis_contaminata</string>
+    <string name="brachythemis_contaminata_asal">indonesia</string>
+    <string name="brachythemis_contaminata_diskripsi">Capung ini termasuk jenis capung berukuran sedang dengan rentang sayap belakang 20-24mm</string>
+    <string name="crocothemis_servilia_nama">crocothemis_servilia</string>
+    <string name="crocothemis_servilia_asal">indonesia</string>
+    <string name="crocothemis_serviliadi_skripsi">capung ini berukuran besar dengan rentang sayap belakang 31-33mm, habitat capung ini adalah area terbuka seperti lahan pertanian</string>
+    <string name="diplacodes_terivialis_nama">diplacodes_terivialis</string>
+    <string name="diplacodes_terivialis_asal">negara asia tengah</string>
+    <string name="diplacodes_terivialis_diskripsi">capung ini berukuran kecil dengan rentang sayap belakang 22-24mm, capung ini dapat ditemukan dirawa-rawa terbuka</string>
+    <string name="eurothemis_stigmatizans_nama">eurothemisstigmatizans</string>
+    <string name="eurothemis_stigmatizans_asal">indonesia</string>
+    <string name="eurothemis_stigmatizans_diskripsi">jcapung ini termasuk kedalam marga capung bersayap merah kecoklatan yang mencolok, capung ini tersebar luas di asia salah satunya indonesia</string>
+    <string name="orthetrum_sabina_nama">orthetrum sabina</string>
+    <string name="orthetrum_sabina_asal">asia</string>
+    <string name="orthetrum_sabina_diskripsi">capung ini dikenal sebagai species capung paling umum di asia</string>
+    <string name="notifikasi">notifikasi</string>
+    // Data Kurakura
+    <string name="cherry_head_nama">cherry_head</string>
+    <string name="cherry_head_asal">Paraguay</string>
+    <string name="cherry_head_deskripsi">"kura-kura Cherry Head yang tergolong ke dalam jenis hewan omnivora ini mampu mengonsumsi mulai dari dedaunan, sayur-sayuran, buah-buahan, cacing, hingga serangga."</string>
+    <string name="forsteni_nama">forsteni spp</string>
+    <string name="forsteni_asal">Sulawesi selatan, indonesia</string>
+    <string name="forsteni_deskripsi">Walau tergolong kura-kura darat, ternyata jenis kura-kura eksotis ini lebih menyukai habitat dengan kondisi lembab, misal di dekat aliran sungai.</string>
+    <string name="leopard_nama">leopard</string>
+    <string name="leopard_asal">benua afrika</string>
+    <string name="leopard_deskripsi">Sebagai hewan herbivora, pakan dari kura-kura Leopard umumnya berupa dedaunan, sayur-sayuran, dan buah-buahan, nih</string>
+    <string name="sulcata_nama">sulcata</string>
+    <string name="sulcata_asal">gurun afrika</string>
+    <string name="sulcata_deskripsi">Jenis kura-kura darat ini punya ciri khas tempurung berwarna kuning dan punya karakteristik sangat keras. Kura-kura Sulcata pun tergolong salah satu spesies kura-kura darat terbesar di dunia</string>
+    <string name="aligator_nama">aligator</string>
+    <string name="aligator_asal">Amerika utara</string>
+    <string name="aligator_deskripsi">Bukan hanya penampilannya saja, jenis kura-kura ini juga memiliki temperamen yang agresif dan tidak ragu untuk menggigit jika merasa terancam dengan kondisi di sekitarnya..</string>
+    <string name="indian_nama">indian</string>
+    <string name="indian_asal">asia selatan</string>
+    <string name="indian_deskripsi">Ukuran dari kura-kura Indian Star juga tergolong kecil, yakni mulai 17-30 centimeter. Spesies kura-kura darat ini juga mampu bertahan hidup hingga 80 tahun, dengan rata-rata 30-55 tahun sebagai peliharaan.</string>
+    // Data semut
+    <string name="ochetellus_nama">ochetellus</string>
+    <string name="ochetellus_asal">laterille</string>
+    <string name="ochetellus_deskripsi">Semut ini berukuran 2,5 - 3 mm dengan warna hitam mengkilat dan sering kita jumpai di dapur atau kamar tidur</string>
+    <string name="solenopsis_spp_nama">Solenopsis spp</string>
+    <string name="solenopsis_spp_asal">Amazon, amerika selatan</string>
+    <string name="solenopsis_spp_deskripsi">Semut ini berwarna coklat tembaga pada kepala dan tubuh, dengan warna lebih gelap, semut ini memili ratu yg memili panjang 5/8mm dan lain hal nya dengan pekerja nya yg memiliki panjang 1/8 - 1/4</string>
+    <string name="tapinoma_melanocephalum_nama">Tapinoma melanocephalum</string>
+    <string name="tapinoma_melanocephalum_asal">kanada, amerika utara</string>
+    <string name="tapinoma_melanocephalum_deskripsi">kaki dan perut warna putih dengan panjang 1-16mm, ratu semut jenis ini berpoligami untuk menghasilkan telur</string>
+    <string name="tapinoma_sesile_nama">Tapinoma sesil</string>
+    <string name="tapinoma_sesile_asal">afrika</string>
+    <string name="tapinoma_sesile_deskripsi">Semut ini memiliki kaki 6 dengan antena 12 segmen dan tidak di akhiri dengan sebuah titik, memakan makanan manis seperti gula dan permen</string>
+    <string name="monomorium_pharaonis_nama">Monomorium pharaonis</string>
+    <string name="monomorium_pharaonis_asal">Jerman</string>
+    <string name="monomorium_pharaonis_deskripsi">Jenis semut ini tertarik pada makanan yg memiliki protein tinggi seperti daging, lemak, serangga mati dll.</string>
+    <string name="camponotus_ennsylvanicus_nama">Camponotus_ennsylvanicus</string>
+    <string name="camponotus_pennsylvanicus_asal">Jepang</string>
+    <string name="camponotus_pennsylvanicus_deskripsi">Semut ini kerap kali dijumpai pada kayu lembab dan juga kayu kering, jenis semut ini memakan cairan manis, sisa tanaman, dan sisa serangga</string>
+    // Data Ular
+    <string name="ular_sanca_nama">ular_sanca</string>
+    <string name="ular_sanca_asal">afrika</string>
+    <string name="ular_sanca_deskripsi">Ular tersebar luas di afrika subsahara,nepal,india,sri langka,myanmar,tiongkok selatan,asia tenggara,indonesia</string>
+    <string name="ular_kobra_nama">ular_kobra</string>
+    <string name="ular_kobra_asal">Indonesia</string>
+    <string name="ular_kobra_deskripsi">jenis ular ini memiliki kemampuan memipihkan lehernya hingga membentuk seperti sendok atau tudung</string>
+    <string name="ular_welang_nama">ular_welang</string>
+    <string name="ular_welang_asal">asia_tenggara</string>
+    <string name="ular_welang_deskripsi">ular ini adalah salah satu ular yang sangat mematikan,selain mematikan ular ini memiliki dua warna seperti cincin di tubuhnya</string>
+    <string name="ular_pucuk_nama">ular_pucuk</string>
+    <string name="ular_pucuk_asal">asia_selatan</string>
+    <string name="ular_pucuk_deskripsi">ular ini sering di jumpai di pohon bertubuh kecil dan ramping </string>
+    <string name="Kucing_semut_amp_Ular">kucing,semut and ular</string>
+</resources>
